@@ -1,0 +1,16 @@
+*** WELCOME TO THE GUIDE ***
+
+Hello! that's just a test of my skills
+using Powershell and the concept of Boilerplates. Be free to
+explore all the folders of this repo.
+
+*** JSON FILES ***
+This folder will have .json files and
+a sub-module with .xml files.
+
+*** PROJECT BODY ***
+That's the "core" of the project at all,
+by the way,  there's more sub-modules that
+follows a hierarchy.
+
+********************************************************
